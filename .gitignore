@@ -1,0 +1,9 @@
+node_modules/
+dist/
+src/
+/package-lock.json
+/package.json
+/tailwind.config.js
+/footer.txt
+Week-11-assign/loginpage.html
+week-10-assign/
